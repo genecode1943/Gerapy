@@ -16,7 +16,7 @@ Documentation is available online at [https://docs.gerapy.com/](https://docs.ger
 
 ## Support
 
-Gerapy is developed based on Python 3.x. Python 2.x may be supported later.
+修改版
 
 ## Usage
 
